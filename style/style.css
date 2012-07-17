@@ -41,6 +41,7 @@ header {
 }
     
     #content ul li {
+        list-style-type: none;
     }
 
     #content a {		
