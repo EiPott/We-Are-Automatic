@@ -1,0 +1,33 @@
+@font-face {	font-family: '04b_03';
+		src: url('ft/04b_03__-webfont.eot');}
+
+html {		background: url(img/waa_bg_1.svg) center top no-repeat;
+		background-color: rgb(18, 25, 11);}
+
+a {		color: rgb(212, 255, 211);
+		font-family: '04b_03'; 
+		text-decoration: none;
+		text-align: center;
+		font-size: 30px;
+		line-height: 0.65;}
+
+a1:hover {	background-image: url('img/facebook.png');
+		}
+
+h1 {		background: url(img/waa_hd_1.png) center no-repeat;
+		padding-top: 350px;
+		margin-bottom: -75px;}
+
+h2 {		color: rgb(212, 255, 211);
+		font-family: '04b_03'; 
+		text-align: center;
+		font-size: 30px;
+		line-height: 0.65;}
+
+footer {	background: url(img/bg_fb_soundcloud_bc.svg) center top no-repeat ;
+		height: 99px;
+		text-align: center;}
+
+div {		text-align: center;
+		padding: 12px;
+		margin-top: 60px;}
