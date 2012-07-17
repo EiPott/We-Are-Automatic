@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+    <meta charset=UTF-8>
+    <title>-WE ARE AUTOMATIC-</title>
+    <link href=styles.css rel=stylesheet />
+</head>
+<body>
+<header>
+    <hgroup>
+        <h1><img src="waa_header_1.png" alt="WE ARE AUTOMATIC!" /></h1>
+    </hgroup>
+    <nav id=global>
+        <ul>
+            <li><a href=#>Home</a></li>
+            <li><a href=#>About</a></li>
+            <li id=services>
+                <a href=#>Services</a>
+                <ul id=subMenu>
+                    <li><a href=#>Whatever</a></li>
+                    <li><a href=#>Your Heart</a></li>
+                    <li><a href=#>Desires</a></li>
+                </ul>
+            </li>
+            <li><a href=#>Portfolio</a></li>
+            <li><a href=#>Contact</a></li>
+        </ul>
+    </nav>
+</header>
