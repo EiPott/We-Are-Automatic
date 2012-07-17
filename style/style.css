@@ -31,7 +31,7 @@ header {
  */
  #content {
     text-align: center;
-    padding: 12px;
+    padding-bottom: 12px;
     margin-top: 40px;
     color: rgb(212, 255, 211);
     font-family: '04b_03'; 
@@ -67,10 +67,9 @@ footer {
 
         footer .links a {
             display: inline-block;
-            background-color: rgba(255,255,255,0.2);
         }
 
             footer .links a:hover {
-                background-color: rgba(255,255,255,0);        
+                background-color: rgba(255,255,255,0.2);        
             }
 
